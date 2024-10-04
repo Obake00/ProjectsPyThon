@@ -20,6 +20,7 @@ class Lampada:
             self.estado = False
         return
     
+#Parte de teste:
 
 dr = Lampada()
 dr.estadolp()
